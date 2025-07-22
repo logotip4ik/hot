@@ -10,7 +10,7 @@ so, why not build it ? (i hope it works, will try in my production...)
 
 ## Usage
 
-```sh
+```
 hot - simple process supervisor
 
 Usage: hot [command] [[...args]]
